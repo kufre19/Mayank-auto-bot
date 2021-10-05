@@ -1,0 +1,4 @@
+[01-Oct-2021 12:10:17 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ypmcomng_bot'@'localhost' (using password: YES) in /home2/ypmcomng/public_html/mayank/config.php on line 5
+[01-Oct-2021 12:14:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/ypmcomng/public_html/mayank/make_csv_file.php:28) in /home2/ypmcomng/public_html/mayank/make_csv_file.php on line 121
+[01-Oct-2021 12:21:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/ypmcomng/public_html/mayank/make_csv_file.php:28) in /home2/ypmcomng/public_html/mayank/make_csv_file.php on line 121
+[01-Oct-2021 12:23:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/ypmcomng/public_html/mayank/make_csv_file.php:28) in /home2/ypmcomng/public_html/mayank/make_csv_file.php on line 121

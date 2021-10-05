@@ -1,0 +1,4 @@
+amount_pounds,recipient_name,account_no,sort_code,reference
+100.20,John Smith,22345678,123456,Example pay run
+300,Ben Peters,22345678,123456,Example pay run
+23.40,Howard Skywalker,22345678,123456,Example pay run
